@@ -1,9 +1,4 @@
 /* JavaScript Document
-
-Tooplate 2155 Modern Musician - Adapted for Festival de Inverno
-
-https://www.tooplate.com/view/2155-modern-musician
-
 */
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -25,3 +20,4 @@ document.addEventListener('DOMContentLoaded', function () {
       });
    }
 });
+
